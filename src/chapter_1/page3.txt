@@ -1,1 +1,1 @@
-Git : a version control system
+Git : a version control system.
