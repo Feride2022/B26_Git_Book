@@ -1,0 +1,3 @@
+
+so far we learned git flow for commit
+--> and remote local , pull / update
